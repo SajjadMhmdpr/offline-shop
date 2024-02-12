@@ -1,0 +1,33 @@
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\data_acsess.dll.config
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\data_acsess.dll
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\data_acsess.pdb
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\bussiness_entity.dll
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\EntityFramework.dll
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\EntityFramework.SqlServer.dll
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\bussiness_entity.pdb
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\EntityFramework.xml
+E:\summer_tose e gar\term1_project_shop\data_acsess\bin\Debug\EntityFramework.SqlServer.xml
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.AssemblyReference.cache
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.Migrations.InitialCreate.resources
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.Migrations.age.resources
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.Migrations.update.resources
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.Migrations.update2.resources
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.Migrations.uodate3.resources
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.GenerateResource.cache
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.CoreCompileInputs.cache
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.dll
+E:\summer_tose e gar\term1_project_shop\data_acsess\obj\Debug\data_acsess.pdb
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\data_acsess.dll.config
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\data_acsess.dll
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\data_acsess.pdb
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\bussiness_entity.dll
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\EntityFramework.dll
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\bussiness_entity.pdb
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\EntityFramework.xml
+E:\project\Win Form\term1_project_shop\data_acsess\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\Win Form\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.AssemblyReference.cache
+E:\project\Win Form\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.CoreCompileInputs.cache
+E:\project\Win Form\term1_project_shop\data_acsess\obj\Debug\data_acsess.csproj.CopyComplete
+E:\project\Win Form\term1_project_shop\data_acsess\obj\Debug\data_acsess.dll
+E:\project\Win Form\term1_project_shop\data_acsess\obj\Debug\data_acsess.pdb

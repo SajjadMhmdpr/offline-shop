@@ -1,0 +1,11 @@
+E:\summer_tose e gar\term1_project_shop\bussiness_entity\bin\Debug\bussiness_entity.dll
+E:\summer_tose e gar\term1_project_shop\bussiness_entity\bin\Debug\bussiness_entity.pdb
+E:\summer_tose e gar\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.csproj.CoreCompileInputs.cache
+E:\summer_tose e gar\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.dll
+E:\summer_tose e gar\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.pdb
+E:\project\Win Form\term1_project_shop\bussiness_entity\bin\Debug\bussiness_entity.dll
+E:\project\Win Form\term1_project_shop\bussiness_entity\bin\Debug\bussiness_entity.pdb
+E:\project\Win Form\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.csproj.AssemblyReference.cache
+E:\project\Win Form\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.csproj.CoreCompileInputs.cache
+E:\project\Win Form\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.dll
+E:\project\Win Form\term1_project_shop\bussiness_entity\obj\Debug\bussiness_entity.pdb
